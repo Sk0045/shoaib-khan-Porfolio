@@ -21,7 +21,7 @@ export default function Introduction() {
             {/* Image Section  */}
             <div className={`transition-all duration-1000 text-center md:text-left ${mounted ? "opacity-100 translate-y-0 " :"opacity-0 translate-y-10"} `}>
                 <Image
-                src="/shoaib.jpg"
+                src="/shoaib.png"
                 height={500}
                 width={500}
                 alt="Shoaib Khan Full Stack Developer Image"
