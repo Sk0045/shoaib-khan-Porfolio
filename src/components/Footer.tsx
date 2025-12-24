@@ -18,7 +18,7 @@ export default function Footer(){
                         >
                         <Github className='w-5 h-5'/>
                         </Link>
-                        <Link href="https://linkedin.com/in/shoaibkhan"
+                        <Link href="https://linkedin.com/in/shoaib-khan-062429385"
                         target='_blank'
                         className='text-gray-600 hover:text-indigo-600 transition-colors'
                         >

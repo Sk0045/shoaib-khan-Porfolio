@@ -133,7 +133,7 @@ const Navbar = memo(() => {
             {/* contact me Link (mobile) */}
             <div className='flex flex-col gap-4 mt-4'>
               <a href="https://github.com/sk0045" target='_blank' className='flex items-center gap-2 px-4 py-2 hover:bg-gray-100 text-gray-700'><Github className='w-5 h-5' />Github</a>
-              <a href="https://linkedin.com/in/shoaib-khan-06" target='_blank' className='flex items-center gap-2 px-4 py-2 hover:bg-gray-100 text-gray-700'><Linkedin className='w-5 h-5' /> LinkedIn</a>
+              <a href="https://linkedin.com/in/shoaib-khan-062429385" target='_blank' className='flex items-center gap-2 px-4 py-2 hover:bg-gray-100 text-gray-700'><Linkedin className='w-5 h-5' /> LinkedIn</a>
               <a href="mailto:skbaloch0045@gamil.com" target='_blank' className='flex items-center gap-2 px-4 py-2 hover:bg-gray-100 text-gray-700'><Mail className='w-5 h-5' /> Email</a>
 
             </div>
